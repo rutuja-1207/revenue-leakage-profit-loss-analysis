@@ -181,7 +181,7 @@ screenshots/dashboard.png
 ---
 ### INSIGHTS
 
-screenshots/insights.png
+![Business Insights](screenshots/insights.png)
 
 # 🔎 Business Analysis
 
