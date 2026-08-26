@@ -179,6 +179,9 @@ screenshots/dashboard.png
 ![Power BI Dashboard](screenshots/dashboard.png)
 
 ---
+### INSIGHTS
+
+screenshots/insights.png
 
 # 🔎 Business Analysis
 
